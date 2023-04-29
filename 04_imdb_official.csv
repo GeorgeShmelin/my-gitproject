@@ -1,0 +1,87 @@
+;color;director_name;duration;gross;genres;movie_title;title_year;country;budget;imdb_score;actors;movie_facebook_likes;title_year_
+0;Color;Martin Scorsese;240;116866727.0;Biography|Comedy|Crime|Drama;the wolf of wall street;2013;United States of America;100000000.0;8.2;Leonardo DiCaprio,Matthew McConaughey,Jon Favreau;138000;2013
+1;Color;Shane Black;195;408992272.0;Action|Adventure|Sci-Fi;iron man 3;2013;United States of America;200000000.0;7.2;Robert Downey Jr.,Jon Favreau,Don Cheadle;95000;2013
+2;Color;Quentin Tarantino;187;54116191.0;Crime|Drama|Mystery|Thriller|Western;the hateful eight;2015;United States of America;44000000.0;7.9;Craig Stark,Jennifer Jason Leigh,Zoë Bell;114000;2015
+3;Color;Kenneth Lonergan;186;46495.0;Drama;margaret;2011;United States of America;14000000.0;6.5;Matt Damon,Kieran Culkin,John Gallagher Jr.;0;2011
+4;Color;Peter Jackson;186;258355354.0;Adventure|Fantasy;the hobbit: the desolation of smaug;2013;United States of America;225000000.0;7.9;Aidan Turner,Adam Brown,James Nesbitt;83000;2013
+6;Color;Peter Jackson;144;303001229.0;Adventure|Fantasy;the hobbit: an unexpected journey;2012;United States of America;180000000.0;7.9;Aidan Turner,Adam Brown,James Nesbitt;166000;2012
+7;Color;Edward Hall;180;103867764.0;Drama|Romance;restless;2012;United Kingdom;104051364.53488372;7.2;Rufus Sewell,Hayley Atwell,Charlotte Rampling;434;2012
+8;Color;Joss Whedon;173;623279547.0;Action|Adventure|Sci-Fi;the avengers;2012;United States of America;220000000.0;8.1;Chris Hemsworth,Robert Downey Jr.,Scarlett Johansson;123000;2012
+10;Color;Tom Tykwer;172;27098580.0;Drama|Sci-Fi;cloud atlas;2012;Germany;102000000.0;7.2;Tom Hanks,Jim Sturgess,Jim Broadbent;124000;2012
+11;Color;Not avaiable;158;102515793.0;Crime|Drama|Mystery|Thriller;the girl with the dragon tattoo;2011;United States of America;90000000.0;7.8;Robin Wright,Goran Visnjic,Joely Richardson;54000;2011
+13;Color;Christopher Nolan;169;187991439.0;Adventure|Drama|Sci-Fi;interstellar;2014;United States of America;165000000.0;8.6;Matthew McConaughey,Anne Hathaway,Mackenzie Foy;349000;2014
+14;Color;F. Gary Gray;167;103867764.0;Biography|Crime|Drama|History|Music;straight outta compton;2015;United States of America;28000000.0;7.9;Aldis Hodge,Neil Brown Jr.,R. Marcos Taylor;76000;2015
+15;Color;Richard Linklater;165;25359200.0;Drama;boyhood;2014;United States of America;4000000.0;8.0;Ellar Coltrane,Lorelei Linklater,Libby Villari;92000;2014
+16;Color;Quentin Tarantino;144;162804648.0;Drama|Western;django unchained;2012;United States of America;100000000.0;8.5;Leonardo DiCaprio,Christoph Waltz,Ato Essandoh;199000;2012
+17;Color;Michael Bay;165;245428137.0;Action|Adventure|Sci-Fi;transformers: age of extinction;2014;United States of America;210000000.0;5.7;Bingbing Li,Sophia Myles,Kelsey Grammer;56000;2014
+18;Color;Christopher Nolan;164;448130642.0;Action|Thriller;the dark knight rises;2012;United States of America;250000000.0;8.5;Tom Hardy,Christian Bale,Joseph Gordon-Levitt;164000;2012
+19;Color;Peter Jackson;164;255108370.0;Adventure|Fantasy;the hobbit: the battle of the five armies;2014;New Zealand;250000000.0;7.5;Aidan Turner,Adam Brown,James Nesbitt;65000;2014
+21;Color;Tom Hooper;158;148775460.0;Drama|Musical|Romance;les misérables;2012;United States of America;61000000.0;7.6;Hugh Jackman,Eddie Redmayne,Anne Hathaway;144000;2012
+22;Color;Kathryn Bigelow;157;95720716.0;Drama|History|Thriller;zero dark thirty;2012;United States of America;40000000.0;7.4;Jennifer Ehle,Harold Perrineau,Parker Sawyers;39000;2012
+23;Color;Ridley Scott;156;105219735.0;Action|Adventure|Drama|History;robin hood;2010;United States of America;200000000.0;6.7;Mark Addy,William Hurt,Scott Grimes;17000;2010
+24;Color;Not avaiable;156;183635922.0;Adventure|Drama|Thriller|Western;the revenant;2015;United States of America;135000000.0;8.1;Leonardo DiCaprio,Tom Hardy,Lukas Haas;190000;2015
+25;Color;Michael Bay;154;352358779.0;Action|Adventure|Sci-Fi;transformers: dark of the moon;2011;United States of America;195000000.0;6.3;Glenn Morshower,Lester Speight,Kevin Dunn;46000;2011
+26;Color;Denis Villeneuve;153;60962878.0;Crime|Drama|Mystery|Thriller;prisoners;2013;United States of America;46000000.0;8.1;Hugh Jackman,Jake Gyllenhaal,Dylan Minnette;86000;2013
+27;Color;Gnana Rajasekaran;153;103867764.0;Biography|Drama|History;ramanujan;2014;India;104051364.53488372;7.0;Mani Bharathi,Michael Lieber,Kevin McGowan;58;2014
+28;Color;Marc Webb;153;262030663.0;Action|Adventure|Fantasy;the amazing spider-man;2012;United States of America;230000000.0;7.0;Emma Stone,Andrew Garfield,Chris Zylka;56000;2012
+29;Color;Not avaiable;151;228430993.0;Adventure|Drama|Sci-Fi;the martian;2015;United States of America;108000000.0;8.1;Matt Damon,Donald Glover,Benedict Wong;153000;2015
+30;Color;Ridley Scott;150;65007045.0;Action|Adventure|Drama;exodus: gods and kings;2014;United Kingdom;140000000.0;6.1;Christian Bale,María Valverde,Ben Mendelsohn;51000;2014
+32;Color;Not avaiable;150;182204440.0;Biography|Drama|History|War;lincoln;2012;United States of America;65000000.0;7.4;Joseph Gordon-Levitt,Hal Holbrook,Bruce McGill;71000;2012
+33;Color;Mike Leigh;150;3958500.0;Biography|Drama|History;mr. turner;2014;United Kingdom;104051364.53488372;6.8;Lesley Manville,Ruth Sheen,Karl Johnson;0;2014
+34;Color;Gore Verbinski;144;89289910.0;Action|Adventure|Western;the lone ranger;2013;United States of America;215000000.0;6.5;Johnny Depp,Ruth Wilson,Tom Wilkinson;48000;2013
+35;Color;David Fincher;149;167735396.0;Crime|Drama|Mystery|Thriller;gone girl;2014;United States of America;61000000.0;8.1;Patrick Fugit,Sela Ward,Emily Ratajkowski;146000;2014
+36;Color;Bryan Singer;149;233914986.0;Action|Adventure|Fantasy|Sci-Fi|Thriller;x-men: days of future past;2014;United States of America;200000000.0;8.0;Jennifer Lawrence,Peter Dinklage,Hugh Jackman;82000;2014
+37;Color;Jay Oliva;148;103867764.0;Action|Animation|Crime|Sci-Fi|Thriller;batman: the dark knight returns, part 2;2013;United States of America;3500000.0;8.4;Michael Emerson,Mark Valley,Grey Griffin;5000;2013
+38;Color;Christopher Nolan;148;292568851.0;Action|Adventure|Sci-Fi|Thriller;inception;2010;United States of America;160000000.0;8.8;Leonardo DiCaprio,Tom Hardy,Joseph Gordon-Levitt;175000;2010
+39;Color;Paul Thomas Anderson;148;8093318.0;Comedy|Crime|Drama|Mystery|Romance;inherent vice;2014;United States of America;20000000.0;6.7;Martin Dew,Katherine Waterston,Serena Scott Thomas;18000;2014
+40;Color;Sam Mendes;148;200074175.0;Action|Adventure|Thriller;spectre;2015;United Kingdom;245000000.0;6.8;Christoph Waltz,Rory Kinnear,Stephanie Sigman;85000;2015
+41;Color;Not avaiable;147;407197282.0;Action|Adventure|Sci-Fi;captain america: civil war;2016;United States of America;250000000.0;8.2;Robert Downey Jr.,Scarlett Johansson,Chris Evans;72000;2016
+42;Color;Michael Patrick King;146;95328937.0;Comedy|Drama|Romance;sex and the city 2;2010;United States of America;100000000.0;4.3;Chris Noth,Liza Minnelli,Kristin Davis;0;2010
+43;Color;Tate Taylor;146;169705587.0;Drama;the help;2011;United States of America;25000000.0;8.1;Emma Stone,Bryce Dallas Howard,Mike Vogel;75000;2011
+44;Color;Francis Lawrence;146;424645577.0;Adventure|Sci-Fi|Thriller;the hunger games: catching fire;2013;United States of America;130000000.0;7.6;Jennifer Lawrence,Josh Hutcherson,Sandra Ellis Lafferty;82000;2013
+45;B/W;Steven Spielberg;146;79883359.0;Drama|War;war horse;2011;United States of America;66000000.0;7.2;Jeremy Irvine,Benedict Cumberbatch,Eddie Marsan;28000;2011
+46;Color;Michael Bay;144;52822418.0;Action|Drama|Thriller|War;13 hours;2016;United States of America;50000000.0;7.4;Toby Stephens,James Badge Dale,David Costabile;44000;2016
+47;Color;Guillaume Canet;144;41229.0;Crime|Drama|Thriller;blood ties;2013;France;25500000.0;6.5;Mila Kunis,Lili Taylor,Billy Crudup;0;2013
+48;Color;Paul Thomas Anderson;144;16377274.0;Drama;the master;2012;United States of America;32000000.0;7.1;Mike Howard,Jeffrey W. Jenkins,Bruce Goodchild;27000;2012
+49;Color;Bryan Singer;144;154985087.0;Action|Adventure|Sci-Fi;x-men: apocalypse;2016;United States of America;178000000.0;7.3;Jennifer Lawrence,Michael Fassbender,Tye Sheridan;54000;2016
+50;Color;Adam McKay;143;2175312.0;Comedy;anchorman 2: the legend continues;2013;United States of America;50000000.0;6.3;Harrison Ford,Will Ferrell,Steve Carell;41000;2013
+51;Color;Zack Snyder;143;103867764.0;Action|Adventure|Fantasy|Sci-Fi;man of steel;2013;United States of America;225000000.0;7.2;Henry Cavill,Christopher Meloni,Harry Lennix;118000;2013
+52;Color;Sam Mendes;143;304360277.0;Action|Adventure|Thriller;skyfall;2012;United Kingdom;200000000.0;7.8;Albert Finney,Helen McCrory,Rory Kinnear;80000;2012
+54;Color;Baz Luhrmann;143;144812796.0;Drama|Romance;the great gatsby;2013;Australia;105000000.0;7.3;Leonardo DiCaprio,Elizabeth Debicki,Steve Bisley;115000;2013
+56;Color;Not avaiable;143;103867764.0;Drama|Horror|Thriller;the ridges;2011;United States of America;17350.0;3.0;Robbie Barnes,Alana Kaniewski,Brandon Landers;33;2011
+57;Color;Steven Spielberg;142;72306065.0;Drama|History|Thriller;bridge of spies;2015;United States of America;40000000.0;7.6;Tom Hanks,Mark Rylance,Amy Ryan;55000;2015
+58;Color;Marc Webb;142;202853933.0;Action|Adventure|Fantasy|Sci-Fi;the amazing spider-man 2;2014;United States of America;200000000.0;6.7;Emma Stone,Andrew Garfield,B.J. Novak;41000;2014
+59;Color;Not avaiable;142;407999255.0;Adventure|Drama|Sci-Fi|Thriller;the hunger games;2012;United States of America;78000000.0;7.3;Jennifer Lawrence,Josh Hutcherson,Anthony Reynolds;140000;2012
+62;Color;Timur Bekmambetov;141;103867764.0;Adventure|Drama|History;ben-hur;2016;United States of America;100000000.0;6.0;Morgan Freeman,Ayelet Zurer,Moises Arias;0;2016
+64;Color;Justin Chadwick;141;8324748.0;Biography|Drama|History;mandela: long walk to freedom;2013;United Kingdom;35000000.0;7.1;Terry Pheto,Fana Mokoena,Tony Kgoroge;13000;2013
+65;Color;Oliver Stone;141;47307550.0;Crime|Drama|Thriller;savages;2012;United States of America;45000000.0;6.5;Demián Bichir,Shea Whigham,Gary Stretch;28000;2012
+66;Color;David Dobkin;141;47105085.0;Crime|Drama;the judge;2014;United States of America;50000000.0;7.4;Robert Downey Jr.,Robert Duvall,Leighton Meester;47000;2014
+67;Color;Ryan Murphy;140;80574010.0;Drama|Romance;eat pray love;2010;United States of America;60000000.0;5.7;James Franco,Julia Roberts,Billy Crudup;26000;2010
+68;Color;James Wan;140;350034110.0;Action|Crime|Thriller;furious 7;2015;United States of America;190000000.0;7.2;Jason Statham,Paul Walker,Vin Diesel;94000;2015
+69;Color;Derek Cianfrance;140;21383298.0;Crime|Drama|Thriller;the place beyond the pines;2012;United States of America;15000000.0;7.3;Ryan Gosling,Ben Mendelsohn,Angelo Anthony Pizza;47000;2012
+70;Color;Gavin O'Connor;140;13651662.0;Drama|Sport;warrior;2011;United States of America;25000000.0;8.2;Tom Hardy,Frank Grillo,Kevin Dunn;77000;2011
+72;Color;Gary Ross;139;20389967.0;Action|Biography|Drama|History|War;free state of jones;2016;United States of America;50000000.0;6.7;Matthew McConaughey,Donald Watkins,Jessica Collins;10000;2016
+73;Color;Tate Taylor;139;30513940.0;Biography|Drama|Music;get on up;2014;United States of America;30000000.0;6.9;Tika Sumpter,Josh Hopkins,Aunjanue Ellis;11000;2014
+74;Color;Terrence Malick;139;13303319.0;Drama|Fantasy;the tree of life;2011;United States of America;32000000.0;6.7;Brad Pitt,Tye Sheridan,Fiona Shaw;39000;2011
+75;Color;Not avaiable;138;150117807.0;Crime|Drama;american hustle;2013;United States of America;40000000.0;7.3;Jennifer Lawrence,Christian Bale,Bradley Cooper;63000;2013
+76;Color;Robert Zemeckis;138;93749203.0;Drama|Thriller;flight;2012;United States of America;31000000.0;7.3;Denzel Washington,Bruce Greenwood,Nadine Velazquez;64000;2012
+77;Color;Darren Aronofsky;138;101160529.0;Action|Adventure|Drama;noah;2014;United States of America;125000000.0;5.8;Anthony Hopkins,Emma Watson,Logan Lerman;71000;2014
+78;Color;Martin Scorsese;138;127968405.0;Mystery|Thriller;shutter island;2010;United States of America;80000000.0;8.1;Leonardo DiCaprio,Joseph Sikora,Nellie Sciutto;53000;2010
+79;Color;Ridley Scott;138;16969390.0;Crime|Drama|Thriller;the counselor;2013;United States of America;25000000.0;5.3;Michael Fassbender,Brad Pitt,Goran Visnjic;24000;2013
+80;Color;James Mangold;138;132550960.0;Action|Adventure|Sci-Fi|Thriller;the wolverine;2013;United States of America;120000000.0;6.7;Hugh Jackman,Tao Okamoto,Rila Fukushima;68000;2013
+82;Color;Not avaiable;137;37304950.0;Biography|Crime|Drama;j. edgar;2011;United States of America;35000000.0;6.6;Leonardo DiCaprio,Naomi Watts,Kaitlyn Dever;16000;2011
+83;Color;Walter Salles;137;717753.0;Adventure|Drama;on the road;2012;France;25000000.0;6.1;Kristen Stewart,Viggo Mortensen,Kirsten Dunst;27000;2012
+84;Color;Not avaiable;137;281666058.0;Adventure|Sci-Fi;the hunger games: mockingjay - part 2;2015;United States of America;160000000.0;6.6;Jennifer Lawrence,Philip Seymour Hoffman,Josh Hutcherson;38000;2015
+86;Color;Angelina Jolie Pitt;137;115603980.0;Biography|Drama|Sport|War;unbroken;2014;United States of America;65000000.0;7.2;Finn Wittrock,Jack O'Connell,Alex Russell;35000;2014
+87;Color;Seth MacFarlane;136;42615685.0;Comedy|Western;a million ways to die in the west;2014;United States of America;40000000.0;6.1;Liam Neeson,Charlize Theron,Seth MacFarlane;24000;2014
+88;Color;Anthony Russo;136;259746958.0;Action|Adventure|Sci-Fi;captain america: the winter soldier;2014;United States of America;170000000.0;7.8;Scarlett Johansson,Chris Evans,Hayley Atwell;55000;2014
+89;Color;Rob Marshall;136;241063875.0;Action|Adventure|Fantasy;pirates of the caribbean: on stranger tides;2011;United States of America;250000000.0;6.7;Johnny Depp,Sam Claflin,Stephen Graham;58000;2011
+90;Color;Adam Shankman;136;38509342.0;Comedy|Drama|Musical|Romance;rock of ages;2012;United States of America;75000000.0;5.9;James Martin Kelly,Shane Hartline,Celina Beach;33000;2012
+91;Color;Not avaiable;136;52474616.0;Drama;wall street: money never sleeps;2010;United States of America;70000000.0;6.3;Frank Langella,Austin Pendleton,John Buffalo Mailer;13000;2010
+92;Color;Sadyk Sher-Niyaz;135;103867764.0;Action|Biography|Drama|History;queen of the mountains;2014;Kyrgyzstan;1400000.0;8.7;Elina Abai Kyzy,Aziz Muradillayev,Mirlan Abdulayev;0;2014
+93;Color;Tony Gilroy;135;113165635.0;Action|Adventure|Thriller;the bourne legacy;2012;United States of America;125000000.0;6.7;Jeremy Renner,Scott Glenn,Stacy Keach;31000;2012
+94;Color;Steve McQueen;134;56667870.0;Biography|Drama|History;12 years a slave;2013;United States of America;20000000.0;8.1;Quvenzhané Wallis,Scoot McNairy,Taran Killam;83000;2013
+95;Color;Richard J. Lewis;134;7501404.0;Comedy|Drama;barney's version;2010;Canada;104051364.53488372;7.3;Mark Addy,Atom Egoyan,Paul Gross;0;2010
+96;Color;Paul Greengrass;134;107100855.0;Biography|Drama|Thriller;captain phillips;2013;United States of America;55000000.0;7.9;Tom Hanks,Chris Mulkey,Michael Chernus;65000;2013
+97;Color;David Ayer;134;85707116.0;Action|Drama|War;fury;2014;United States of America;68000000.0;7.6;Brad Pitt,Logan Lerman,Jim Parrack;82000;2014
+98;Color;Clint Eastwood;5;47034272.0;Biography|Drama|Music|Musical;jersey boys;2014;United States of America;40000000.0;6.9;Johnny Cannizzaro,Steve Schirripa,Scott Vance;16000;2014
